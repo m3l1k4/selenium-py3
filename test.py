@@ -19,4 +19,4 @@ from selenium.webdriver.common.keys import Keys
 
 chromedriver = '/usr/local/bin/chromedriver'
 browser = webdriver.Chrome(chromedriver)
-browser.get('https://stackoverflow.com/users/login')
+browser.get('https://stackoverflow.com/users/login') 
